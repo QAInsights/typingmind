@@ -1,7 +1,7 @@
 <h2 align="center">
   <img height="150" alt="Typing Mind - A better UI for ChatGPT" src="https://www.typingmind.com/banner.png" />
 <br/>
-Static Self-host Version
+Static Self-host Versions
 </h2>
 <div align="center">
 
